@@ -1,1 +1,1 @@
-pascals triangle by nancy
+pascals triangle
